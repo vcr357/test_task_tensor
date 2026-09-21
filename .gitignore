@@ -27,7 +27,8 @@
 *.lib
 
 # Executables
-*.exe
+exe
 *.out
 *.app
-SQLite_recursive_table/bin/sqlite3.def
+
+SQLite_recursive_table/distr/dbeaver-ce-26.2.1-windows-x86_64.exe
